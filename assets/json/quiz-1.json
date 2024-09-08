@@ -37,10 +37,10 @@
             "question": "What is the correct HTML tag for inserting an image?",
             "answer": 2,
             "options": [
-                "<image href=image.jpg>",
-                "<image src=image.jpg>",
-                "<img src=image.jpg>",
-                "<img href=image.jpg>"
+                "<image href='image.jpg'>",
+                "<image src='image.jpg'>",
+                "<img src='image.jpg'>",
+                "<img href='image.jpg'>"
             ]
         },
         {
@@ -48,7 +48,7 @@
             "answer": 1,
             "options": [
                 "<link>",
-                "<a href=http://example.com>Example</a>",
+                "<a href='http://example.com'>Example</a>",
                 "<href>",
                 "<hyperlink>"
             ]
