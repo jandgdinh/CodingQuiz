@@ -17,10 +17,10 @@
             "question": "How do you include CSS in your HTML document?",
             "answer": 1,
             "options":[
-                "<style src=styles.css>",
-                "<link rel=stylesheet href=styles.css>",
+                "<style src='styles.css'>",
+                "<link rel='stylesheet' href='styles.css'>",
                 "<css>styles.css</css>",
-                "<script type=text/css src=styles.css>"
+                "<script type='text/css' src='styles.css'>"
             ]
 
         },
