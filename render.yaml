@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: Coding Quiz
+    env: static
+    staticPublishPath: ./
+    buildCommand: ""
+    startCommand: ""
