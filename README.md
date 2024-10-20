@@ -2,6 +2,12 @@
 
 ## For this project, we created a quiz game for users to test their knowledge on a few coding categories; such as HTML, CSS & JavaScript.
 
+## Deployed website
+https://codingquiz.onrender.com/
+
+## Example photo
+![Example photo of the Coding Quiz](./assets/codingQuiz.png)
+
 ## Table of Contents 
 
 - [Concept](#concept)
